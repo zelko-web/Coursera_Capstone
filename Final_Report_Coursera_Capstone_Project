@@ -1,0 +1,22 @@
+Introduction/Business Problem
+
+The recent COVI-19 pandemic has a major impact on the food service industry, leading to many restaurants going out of business.
+But eventually the economy will recover, and the freshly vacated locations in major cities, give opportuinities for new businesses. 
+
+Japanese cuisine has been rapidly gaining popularity in the last decades and usually generates high revenue in the premium segment. 
+The city of Paris is famous for its fancy restaurants and indicates that the general population or the visiting customers, have a
+appreciation for premium food and also the willingness to pay premium.
+
+Given the prequisites, that the distance to the sea and a subsequent quality fish-market is not a deciding factor, but solely the georgraphic location, 
+a recommendation shall be derived for a japanese restaurant within the 20 districts of Paris. 
+
+
+Data
+
+In order to derive recommendations, it is necessary to get information regarding the possible locations within the 20 districts:
+- Wikipedia provides the name, popoulation, and area of the arrondissements (districts) of Paris https://en.wikipedia.org/wiki/Arrondissements_of_Paris
+- FourSquare provides information regarding the venues in the location of interest, such as restaurants and ratings of the restaurants. Relevant data:
+    - Trending Venue Data to rate the location regarding future prospect
+    - Similar Venues to avoid possible competition
+    - General venue stats
+    - Venue Type 
